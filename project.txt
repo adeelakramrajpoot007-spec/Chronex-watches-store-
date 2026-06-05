@@ -1,0 +1,29 @@
+
+
+
+username :postgres
+password:1234
+
+
+
+localhost:8000 -- page
+http://localhost:8000/admin
+
+
+
+python manage.py makemigrations
+python manage.py migrate
+python manage.py runserver
+
+
+http://localhost:5174/category/ps5/
+
+
+
+
+
+
+
+
+
+
